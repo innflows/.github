@@ -9,6 +9,7 @@
 | Repository | Category | Highlights |
 | :--- | :--- | :--- |
 | **[`innflows/awesome-geo-aeo`](https://github.com/innflows/awesome-geo-aeo)** | Handbook, Crawler Specs & CSV Datasets (`CC0-1.0`) | Bilingual (`EN` / `中文`) GEO & AEO engineering guide, 18-bot search-vs-training crawler matrix, copy-paste `robots.txt` / `llms.txt` / `Schema.org` JSON-LD templates, and open CSV benchmarks (`36,000+` native fan-out queries & `100` B2B SaaS domains). |
+| **[`innflows/geo-aeo-papers`](https://github.com/innflows/geo-aeo-papers)** | Literature Survey & 34 Paper Analyses (`CC0-1.0`) | Bilingual (`EN` / `中文`) 2023–2026 academic literature survey, 34 critically annotated KDD / NeurIPS / ICLR / ACL / WWW / ICML / arXiv studies, CSV + BibTeX catalog, and automated weekly arXiv Paper Radar. |
 | **[`innflows/website-ai-readiness-audit`](https://github.com/innflows/website-ai-readiness-audit)** | CLI & Official MCP Server (`MIT`) | Zero-dependency Node.js & Python audit (`npx @innflows/ai-readiness-audit <url>`) + stdio MCP server (`io.github.innflows/ai-readiness-audit`) testing 14 AI crawlers, `/llms.txt` soft-404s, SSR HTML extractability, and `Schema.org` entity graphs. |
 
 ### Quick Audit in Your Terminal
